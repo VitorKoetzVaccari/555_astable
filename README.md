@@ -1,3 +1,4 @@
 # 555!
 
-[image](https://user-images.githubusercontent.com/97064928/158022384-cfcd66d1-7be0-4057-a837-36e87040f38d.png)
+
+![astable-555-timer-led-flasher-circuit](https://user-images.githubusercontent.com/97064928/158022414-87ed53de-42aa-43e6-8452-72bf633e6670.png)
